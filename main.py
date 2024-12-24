@@ -24,7 +24,7 @@ def main():
     global top, image_label, result_label, v, m
 
     top = tk.Tk()
-    top.title('Catch All ImageZ')
+    top.title('Image Recognition')
     top.geometry('800x500')
     top.minsize(600, 400)
 
