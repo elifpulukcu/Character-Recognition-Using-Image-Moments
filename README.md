@@ -89,3 +89,7 @@ Character-Recognition-Using-Image-Moments/
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Author
+
+Developed by [Elif Pulukçu](https://github.com/elifpulukcu).
